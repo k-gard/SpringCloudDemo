@@ -1,0 +1,2 @@
+com/example/userservice/UserserviceApplicationTests.java
+ com.example.userservice.UserserviceApplicationTests
